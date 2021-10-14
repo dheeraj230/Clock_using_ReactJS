@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Clock_using_ReactJS/static/css/main.ca381ba1.chunk.css",
+    "main.js": "/Clock_using_ReactJS/static/js/main.25c42155.chunk.js",
+    "main.js.map": "/Clock_using_ReactJS/static/js/main.25c42155.chunk.js.map",
+    "runtime-main.js": "/Clock_using_ReactJS/static/js/runtime-main.b2ac47ae.js",
+    "runtime-main.js.map": "/Clock_using_ReactJS/static/js/runtime-main.b2ac47ae.js.map",
+    "static/js/2.5382fb1b.chunk.js": "/Clock_using_ReactJS/static/js/2.5382fb1b.chunk.js",
+    "static/js/2.5382fb1b.chunk.js.map": "/Clock_using_ReactJS/static/js/2.5382fb1b.chunk.js.map",
+    "index.html": "/Clock_using_ReactJS/index.html",
+    "static/css/main.ca381ba1.chunk.css.map": "/Clock_using_ReactJS/static/css/main.ca381ba1.chunk.css.map",
+    "static/js/2.5382fb1b.chunk.js.LICENSE.txt": "/Clock_using_ReactJS/static/js/2.5382fb1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2ac47ae.js",
+    "static/js/2.5382fb1b.chunk.js",
+    "static/css/main.ca381ba1.chunk.css",
+    "static/js/main.25c42155.chunk.js"
+  ]
+}
